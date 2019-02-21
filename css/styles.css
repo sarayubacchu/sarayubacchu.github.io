@@ -1,0 +1,13 @@
+.container {
+  position: relative;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 150px;
+  right: 400px;
+  background-color: white;
+  color: black;
+  padding-left: 100px;
+  padding-right: 100px;
+}
