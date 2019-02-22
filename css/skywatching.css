@@ -55,3 +55,20 @@
   background: #2c4762;
   color: white;
 }
+
+#title {
+  font-family: 'Julius Sans One';
+  text-align: center;
+  margin-top: 50px;
+}
+
+#title2 {
+  font-family: "Arial";
+  text-align: center;
+}
+
+#starwatching {
+  font-family: 'Amiko';font-size: 22px;
+  margin-left: 200px;
+  margin-right: 200px;
+}

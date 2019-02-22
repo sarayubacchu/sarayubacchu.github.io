@@ -29,6 +29,7 @@
 
 .footer {
   text-align: center;
+  padding-top: 10px;
 }
 .fa {
   padding: 20px;
@@ -72,4 +73,12 @@
   font-family: 'Amiko';font-size: 22px;
   margin-left: 200px;
   margin-right: 200px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:40%;
+  height: 20%;
 }
