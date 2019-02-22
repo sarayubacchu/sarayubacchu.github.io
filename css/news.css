@@ -27,6 +27,9 @@
 
 }
 
+.footer {
+  text-align: center;
+}
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -52,4 +55,21 @@
 .fa-tumblr {
   background: #2c4762;
   color: white;
+}
+
+#title2 {
+  font-family: 'Julius Sans One';
+  text-align: center;
+  margin-top: 50px;
+}
+#title3 {
+  font-family: "Arial";
+  text-align: center;
+
+}
+
+#article {
+  font-family: 'Amiko';font-size: 22px;
+  margin-left: 200px;
+  margin-right: 200px;
 }

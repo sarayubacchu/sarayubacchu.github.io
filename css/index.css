@@ -1,3 +1,7 @@
+* {
+  background: white;
+}
+
 .container {
   position: relative;
 }
@@ -27,7 +31,9 @@
 
 }
 
-
+.footer {
+  text-align: center;
+}
 
 .fa {
   padding: 20px;
@@ -35,7 +41,7 @@
   width: 50px;
   text-align: center;
   text-decoration: none;
-  align-content: center;
+
 }
 .fa:hover {
   opacity: 0.7;
@@ -57,11 +63,19 @@
   color: white;
 }
 
+
+
+
 h1 {
   text-align: center;
-
 }
 
 #title {
   font-family: 'Julius Sans One';
+  margin-top: 50px;
+}
+
+#intro {
+  font-family: 'Amiko';font-size: 22px;
+  text-align: center;
 }

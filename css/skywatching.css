@@ -26,7 +26,9 @@
   text-align:center;
 
 }
-
+.footer {
+  text-align: center;
+}
 .fa {
   padding: 20px;
   font-size: 30px;
